@@ -9,6 +9,8 @@ class linear{
             case 2:
                 System.out.println("Binary code here");
                 break;
+            default:
+                System.out.println("Enter valid number");
 
         }
     }
